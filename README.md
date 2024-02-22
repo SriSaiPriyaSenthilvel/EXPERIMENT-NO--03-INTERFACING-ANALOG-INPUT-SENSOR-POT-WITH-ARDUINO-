@@ -100,12 +100,12 @@ void loop()
 
 **Circuit Diagram**
 
-![intro to robotics exp2 schematic](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/f20f1dc2-a782-4a35-a10e-3a0cff293c97)
+![image](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/789c9286-5d3c-45e1-a480-192df94bd9b9)
 
 **Simulation output:** 
 
-![Screenshot (127)](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/0cba7dd7-bf77-43e0-9ca2-c50c1d59b579)
-![Screenshot (128)](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/d80b8d44-327e-4c5a-b6e2-5726ca4fe00b)
+![Screenshot (130)](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/ce22cf29-5d79-49ac-bc01-42e1d90339c6)
+![Screenshot (131)](https://github.com/SriSaiPriyaSenthilvel/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119475702/af63d0a5-3d5d-493a-a879-066717e56f91)
 
 **RESULT:**
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
