@@ -65,6 +65,8 @@ CIRCUIT DIAGRAM
 
 **PROGRAM** 
 ```
+DEVELOPED BY: SRI SAI PRIYA.S
+REGISTER NUMBER: 212222240103
  int led=4;
 int sensorpot;
 void setup()
